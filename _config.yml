@@ -1,0 +1,10 @@
+# GitHub Pages Configuration
+title: "Ricky Diep | Product Marketing Manager | Claude Code"
+description: "GTM Strategy for Claude Code Teams Plan - Take-Home Assignment"
+author: "Ricky Diep"
+
+# Theme (using default for static HTML)
+theme: null
+
+# Build settings
+markdown: kramdown
