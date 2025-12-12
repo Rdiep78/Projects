@@ -124,7 +124,7 @@ strong {
 }
 
 .hero-image-container {
-    max-width: 600px;
+    max-width: 180px;
     margin: 0 auto var(--spacing-2xl);
     padding: 0 var(--spacing-lg);
 }
