@@ -237,12 +237,6 @@ main {
     box-shadow: 0 12px 32px rgba(249, 115, 22, 0.15);
 }
 
-.value-prop-card .icon {
-    font-size: 2.5rem;
-    margin-bottom: var(--spacing-md);
-    filter: grayscale(0.3);
-}
-
 .value-prop-card h4 {
     font-size: 1.25rem;
     margin-bottom: var(--spacing-sm);
