@@ -218,7 +218,7 @@ main {
 /* Value Proposition Grid */
 .value-prop-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: 1fr;
     gap: var(--spacing-lg);
     margin-top: var(--spacing-xl);
 }
@@ -349,9 +349,8 @@ main {
     border-bottom: none;
 }
 
-.metric-list li strong {
-    color: var(--color-accent);
-    font-weight: 600;
+.metric-list li {
+    font-weight: 400;
 }
 
 .metrics-box.large {
