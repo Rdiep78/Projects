@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 '1': 'messaging',
                 '2': 'demand-gen',
                 '3': 'adoption',
-                '4': 'sales'
+                '4': 'enablement'
             };
 
             const targetSection = sectionMap[e.key];
